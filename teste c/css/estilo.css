@@ -1,0 +1,17 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(217, 245, 245);
+}
+.titulo{    
+    display: flex;
+    justify-content: center;
+}
+div{
+    border-bottom: solid;
+    margin-bottom: 10px;
+  
+}
+h3{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
